@@ -898,7 +898,7 @@ export const HomePage = () => {
 						{[
 							{
 								label: 'Diseños Entregados',
-								value: 80,
+								value: 100,
 								suffix: '+',
 								icon: <Palette className="h-7 w-7" />,
 								color: 'from-neon-pink to-rose-500',
